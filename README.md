@@ -15,7 +15,7 @@
 10. 16/mai: Desenvolvimento do projeto: Integração frontend/backend (orientações às equipes).
 11. 23/mai: Desenvolvimento do projeto: Implementação de regras de negócio e inclusão de testes unitários (orientações às equipes).
 12. 30/mai: Desenvolvimento do projeto: Implementação de regras de negócio e inclusão de testes unitários (orientações às equipes).
-    **_A2-2: Avaliação do status atual do projeto (1,0)._**
+    <br/>**_A2-2: Avaliação do status atual do projeto (1,0)._**
 14. 06/jun: **_A2-final: Apresentação e defesa do código (3,0)._**
 15. 13/jun: **_Avaliação A1. Prova individual sem consulta._**
 16. 04/jul: Substitutiva.
