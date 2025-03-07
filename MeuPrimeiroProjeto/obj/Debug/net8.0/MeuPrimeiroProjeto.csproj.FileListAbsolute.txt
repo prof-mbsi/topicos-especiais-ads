@@ -1,0 +1,15 @@
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.exe
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.deps.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.sourcelink.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\MeuPrimeiroProjeto\obj\Debug\net8.0\ref\MeuPrimeiroProjeto.dll
