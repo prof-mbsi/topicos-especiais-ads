@@ -1,3 +1,4 @@
+*.cache
 *.dll
 *.exe
 *.log
