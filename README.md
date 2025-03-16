@@ -5,7 +5,7 @@
 ## Cronograma de aulas:
 1. 28/fev: ~~Apresentação do professor, do conteúdo e revisão de classes e objetos.~~
 2. 07/mar: ~~Configuração do ambiente de desenvolvimento.~~
-3. 14/mar: Definição dos temas da avaliação A2. Início do desenvolvimento do projeto. Conceitos básicos de C#: Tipos de dados, entrada/saída.
+3. 14/mar: ~~Definição dos temas da avaliação A2. Início do desenvolvimento do projeto. Conceitos básicos de C#: Tipos de dados, entrada/saída.~~
 4. 21/mar: C#: Loops e estruturas de decisão.
 5. 28/mar: Criando uma API REST simples com ASP.NET Core. Testando a API com Postman.
 6. 04/abr: **_A2-1: Avaliação do status atual do projeto (1,0)_**
