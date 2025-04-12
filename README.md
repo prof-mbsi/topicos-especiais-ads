@@ -8,9 +8,9 @@
 3. 14/mar: ~~Definição dos temas da avaliação A2. Início do desenvolvimento do projeto. Conceitos básicos de C#: Tipos de dados, entrada/saída.~~
 4. 21/mar: ~~C#: Loops e estruturas de decisão.~~
 5. 28/mar: ~~Manipulação de vetores em C#.~~
-6. 04/abr: ~~Classes e objetos em C#.~~
-7. 11/abr: Classes e objetos em C#.
-8. 25/abr: **_A2-1: Avaliação do status atual do projeto (1,0). Diagrama de classes + classes de negócio implementadas e relacionadas_**
+6. 04/abr: ~~Classes e objetos em C#. Encapsulamento~~
+7. 11/abr: ~~Classes e objetos em C#. Properties e construtores~~
+8. 25/abr: Arrays de objetos. **_A2-1: Avaliação do status atual do projeto (1,0). Diagrama de classes + classes de negócio implementadas e relacionadas_**
 9. 09/mai: Criando uma API REST simples com ASP.NET Core. Testando a API com Postman. 
 10. 16/mai: Introdução ao Entity Framework Core e Migrations. Criando um banco de dados SQLite/PostgreSQL.
 11. 23/mai: Operações CRUD no BD.
