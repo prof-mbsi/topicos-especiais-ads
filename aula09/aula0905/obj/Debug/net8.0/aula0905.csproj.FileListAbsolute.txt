@@ -1,0 +1,15 @@
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\bin\Debug\net8.0\aula0905.exe
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\bin\Debug\net8.0\aula0905.deps.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\bin\Debug\net8.0\aula0905.runtimeconfig.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\bin\Debug\net8.0\aula0905.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\bin\Debug\net8.0\aula0905.pdb
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.AssemblyInfoInputs.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.AssemblyInfo.cs
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.csproj.CoreCompileInputs.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.sourcelink.json
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\refint\aula0905.dll
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.pdb
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\aula0905.genruntimeconfig.cache
+C:\Users\Prof. Marlon\Documents\GitHub\topicos-especiais-ads\aula09\aula0905\obj\Debug\net8.0\ref\aula0905.dll
