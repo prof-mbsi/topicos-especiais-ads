@@ -13,8 +13,8 @@
 8. 25/abr: ~~**_A2-1: Avaliação do status atual do projeto (1,0). Diagrama de classes + classes de negócio implementadas e relacionadas_**~~
 9. 09/mai: ~~Arrays de objetos. Exercícios com todo o conteúdo de C# visto.~~
 10. 16/mai: ~~Criando uma API REST simples com ASP.NET Core. Testando a API com Postman.~~
-11. 23/mai: Introdução ao Entity Framework Core e Migrations. Criando um banco de dados SQLite/PostgreSQL.
-12. 30/mai: Operações CRUD no BD.
+11. 23/mai: ~~Criando uma API REST simples com ASP.NET Core. Testando a API com Postman.~~
+12. 30/mai: Persistência em arquivo.
     <br/>**_A2-2: Avaliação do status atual do projeto (1,0)._**
 18. 06/jun: **_A2-final: Apresentação e defesa do código (3,0)._**
 19. 13/jun: **_Avaliação A1. Prova individual sem consulta._**
