@@ -1,0 +1,4 @@
+Produto: Caderno - Quantidade: 10 - Preço: 12.50
+Produto: Caneta - Quantidade: 50 - Preço: 1.99
+Produto: Lápis - Quantidade: 100 - Preço: 0.99
+Produto: Borracha - Quantidade: 20 - Preço: 0.50
