@@ -14,8 +14,8 @@
 9. 09/mai: ~~Arrays de objetos. Exercícios com todo o conteúdo de C# visto.~~
 10. 16/mai: ~~Criando uma API REST simples com ASP.NET Core. Testando a API com Postman.~~
 11. 23/mai: ~~Criando uma API REST simples com ASP.NET Core. Testando a API com Postman.~~
-12. 30/mai: Persistência em arquivo.
-    <br/>**_A2-2: Avaliação do status atual do projeto (1,0)._**
-18. 06/jun: **_A2-final: Apresentação e defesa do código (3,0)._**
-19. 13/jun: **_Avaliação A1. Prova individual sem consulta._**
-20. 04/jul: Substitutiva.
+12. 30/mai: ~~Persistência em arquivo.
+    <br/>**_A2-2: Avaliação do status atual do projeto (1,0)._**~~
+18. 06/jun: ~~**_A2-final: Apresentação e defesa do código (3,0)._**~~
+19. 13/jun: ~~**_Avaliação A1. Prova individual sem consulta._**~~
+20. 04/jul: ~~Substitutiva.~~
