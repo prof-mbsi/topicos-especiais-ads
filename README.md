@@ -1,6 +1,6 @@
 # topicos-especiais-ads
 - _Prof. Marlon André Peron Generoso_
-- Semestre: 2025-1
+- _Semestre: 2025-1_
 
 ## Cronograma de aulas:
 1. 28/fev: ~~Apresentação do professor, do conteúdo e revisão de classes e objetos.~~
